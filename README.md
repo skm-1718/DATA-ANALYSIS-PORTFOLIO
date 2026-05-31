@@ -27,31 +27,37 @@ Aspiring Data Analyst with experience in Banking, Finance, Operational Analytics
 
 Tools: Excel, SQL, Power BI
 Domain: Finance Analytics
+Link-
 
 ## 2. Hospital Data Analysis
 
 Tools: SQL, Power BI
 Domain: Healthcare Analytics
+Link-
 
 ## 3. Olympics Data Analysis
 
 Tools: Excel, Power BI
 Domain: Sports Analytics
+Link-
 
 ## 4. IMDB Movies Analysis
 
 Tools: Excel, SQL
 Domain: Entertainment Analytics
+Link-
 
 ## 5. Hiring Process Analysis
 
 Tools: Excel, SQL
 Domain: HR Analytics
+Link-
 
 ## 6. Operational Metrics Analysis
 
 Tools: SQL, Power BI
 Domain: Business Operations
+Link-
 
 ---
 
